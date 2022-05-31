@@ -3,6 +3,8 @@
 ### Descrição
 Este projeto é parte de um trabalho para previsão das notas de consumidores em relação à reclamação aberta no Portal [Consumidor.gov](https://www.consumidor.gov.br/pages/principal/?1653940320598). Aqui foi realizada uma coleta dos Scores (pontuações) no Reclame Aqui das empresas participantes do portal público utilizando <b>Automação Web com Selenium</b>.
 
+Os dados podem ser acessados no [Portal Brasileiro de Dados Abertos](https://dados.gov.br/dataset/reclamacoes-do-consumidor-gov-br1).
+
 É interessante ressaltar que a forma de realizar essa busca foi a que considerei mais eficiente, uma vez que a automação consiste em: 
 - Digitar o nome da empresa na seção de busca;
 - Aguardar o site do Reclame Aqui retornar com o resultado;
